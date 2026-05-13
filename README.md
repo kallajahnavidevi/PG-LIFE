@@ -1,0 +1,1 @@
+Developed a full-stack web application named PG Life to help users search and explore PG accommodations across different cities. Implemented features like user authentication, PG listings, property details, filters, and favorite bookmarking using HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL.
